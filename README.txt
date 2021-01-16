@@ -1,5 +1,5 @@
 /*
- * ucgliv Demo Application running on Nordic Semiconductors nRF52 DK with nRF SDK 17.02 and:
+ * ucglib Demo Application running on Nordic Semiconductors nRF52 DK with nRF SDK 17.02 and:
  *
  * SPIM and a Waveshare SSD1351 OLED 128x128 18 Bit color (https://www.waveshare.com/wiki/1.5inch_RGB_OLED_Module)
  * that can be found on Ebay/Amazon for few EUR.
